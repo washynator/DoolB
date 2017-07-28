@@ -1,0 +1,10 @@
+{
+  "name": "Shotgun",
+  "damage": 3,
+  "damageMultiplier": 1,
+  "fireRate": 1,
+  "hitForce": 3,
+  "maxAmmo": 50,
+  "currentAmmo": 10,
+  "isProjectileWeapon": false
+}

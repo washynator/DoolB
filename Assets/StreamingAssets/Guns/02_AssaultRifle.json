@@ -1,0 +1,10 @@
+{
+  "name": "AssaultRifle",
+  "damage": 0.5,
+  "damageMultiplier": 1,
+  "fireRate": 0.25,
+  "hitForce": 1,
+  "maxAmmo": 300,
+  "currentAmmo": 50,
+  "isProjectileWeapon": false
+}

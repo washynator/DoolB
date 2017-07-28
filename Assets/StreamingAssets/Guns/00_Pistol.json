@@ -1,0 +1,10 @@
+{
+  "name": "Pistol",
+  "damage": 1,
+  "damageMultiplier": 1,
+  "fireRate": 0.75,
+  "hitForce": 0.5,
+  "maxAmmo": 100,
+  "currentAmmo": 15,
+  "isProjectileWeapon": false
+}
